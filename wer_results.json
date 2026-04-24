@@ -1,0 +1,10 @@
+{
+  "wer": 0.04285714285714286,
+  "accuracy": 0.9571428571428572,
+  "substitutions": 2,
+  "insertions": 1,
+  "deletions": 0,
+  "hits": 68,
+  "reference_words": 70,
+  "hypothesis_words": 71
+}

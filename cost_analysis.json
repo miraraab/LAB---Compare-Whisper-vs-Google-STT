@@ -1,0 +1,10 @@
+{
+  "price_per_minute_usd": 0.006,
+  "audio_duration_seconds": 45.0,
+  "cost_this_recording_usd": 0.0045000000000000005,
+  "scenarios": {
+    "1 Aufnahme (dein Test)": 0.0045,
+    "100 Meetings/Monat (1h je)": 36.0,
+    "500 Meetings/Monat (1h je)": 180.0
+  }
+}

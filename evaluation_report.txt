@@ -1,0 +1,23 @@
+WHISPER STT EVALUATION REPORT
+==============================
+
+1. ACCURACY ANALYSIS
+WER:             4.29%
+Accuracy:        95.71%
+Substitutions:   2
+Insertions:      1
+Deletions:       0
+Korrekte Woerter: 68 / 70
+
+2. COST ANALYSIS
+Audio-Dauer:          45.0 sec
+Kosten diese Datei:   $0.0045
+100 Meetings (1h/je): $36.0/Monat
+500 Meetings (1h/je): $180.0/Monat
+
+3. PERFORMANCE INSIGHTS
+transcription correct , just colloquial terms like hab instead of habe or wie`s instead of wie es were not detected.
+
+4. RECOMMENDATIONS
+yes highly accurate 
+gespeichert
